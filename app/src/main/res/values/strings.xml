@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LifeCycle_Activity</string>
+    <string name="Login">Login</string>
+    <string name="username">User Name</string>
+    <string name="enter_username">Enter User Name</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="loginButton">Login</string>
+</resources>
