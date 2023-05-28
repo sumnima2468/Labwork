@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">XML Layout</string>
+    <string name="tv1">How was the service??</string>
+    <string name="amazing">Amazing(20)</string>
+    <string name="good">good(18)</string>
+    <string name="okay">okay(15)</string>
+    <string name="round_up_tip">Round_up_tip</string>
+    <string name="calculate">Calculate</string>
+    <string name="cost_of_service">Cost of service</string>
+    <string name="tip_amount">Tip Amount</string>
+</resources>
